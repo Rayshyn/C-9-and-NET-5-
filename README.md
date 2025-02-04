@@ -1,2 +1,2 @@
-# C-9-and-.NET-5---Modern-Cross-Platform
+# C# 9 and NET5
 A book for... lern c#
